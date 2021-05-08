@@ -1,0 +1,33 @@
+{
+  "ServerSettings": {
+            "ServerName": "Kozmos",
+            "ServerID": "758602478823931914",
+            "Tag": "❄",
+            "UnTag": "❄"
+    },
+ "Roles": {
+      "UyeRolu":"772483343115747368",
+        "ErkekRol": "828560630175760404",
+        "KızRol": "828560689584799805",
+        "Unregister": "828520087291166725",
+        "Kayitci": "807605622552002571",
+        "TagRole": "822015045508136991",
+        "Jail": "828560187773288498"
+    },
+        "ServerSettings": {
+            "ServerName": "Kozmos",
+            "ServerID": "758602478823931914",
+            "Tag": "❄",
+            "UnTag": "❄"
+    },
+        "Channels": {
+            "RegisterChat": "821995022605877298",
+            "TagLog": "828547731676987422",
+            "Rules": "794548564092125194",
+            "GeneralChat": "814944207092973588"
+        },
+        "Welcome": {
+            "WelcomeChat": "814944207092973588",
+            "WelcomeName": "❄ İsim | Yaş"
+        }
+}
